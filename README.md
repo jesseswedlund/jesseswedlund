@@ -13,7 +13,7 @@ I live in Seattle, WA. I'm a former Outdoor Educator turned full stack developer
 
 ### My Favorite Project Repos
 * <a href="https://github.com/2009-FSA-CS-Lucians-Lightbringers/haircutzGame">Haircutz</a> - 2D Tower Defense Game
-* <a href="hhttps://github.com/The-Shopper-Awakens/graceshopper">Outdoor Recreation Inc.</a> - E-Commerce clone of REI.com
+* <a href="https://github.com/The-Shopper-Awakens/graceshopper">Outdoor Recreation Inc.</a> - E-Commerce clone of REI.com
 * <a href="https://github.com/jesseswedlund/sudokuSolver">Sudoku Solver</a> - Solves most expert level sudokus
 
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesseswedlund&show_icons=true&theme=dark)
