@@ -9,7 +9,7 @@ I live in Seattle, WA. I'm a former Outdoor Educator turned full stack developer
 ...and many others
 
 ### I'm Currently Learning
-<img src="https://img.shields.io/badge/React%20Native-663399?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Gatsby-007ACC?style=for-the-badge&logo=gatsby&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
+<img src="https://img.shields.io/badge/React%20Native-663399?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Gatsby-007ACC?style=for-the-badge&logo=gatsby&logoColor=white"> 
 
 ### My Favorite Project Repos
 * <a href="https://github.com/2009-FSA-CS-Lucians-Lightbringers/haircutzGame">Haircutz</a> - 2D Tower Defense Game
