@@ -1,5 +1,5 @@
 ## Hi, I'm Jesse. 
-I live in Seattle, WA. I'm a former Outdoor Educator turned full stack developer.
+I live in Seattle, WA. I'm a former outdoor educator turned full stack developer.
 
 ### Get In Touch
 <a href="mailto:swedlundjesse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/jesseswedlund/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.jesseswedlund.com/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
